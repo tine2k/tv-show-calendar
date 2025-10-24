@@ -4,129 +4,13 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Comedy Central
-DESCRIPTION:Cartman is possessed and may be the key to stopping the Antich
- rist.
-DTEND:20251016T022200Z
-DTSTAMP:20251023T220004Z
-DTSTART:20251016T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:South Park - 28x01 - Twisted Christian
-UID:NzbDrone_episode_6270
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Amid a growing constitutional crisis\, the staff scrambles to 
- stage an impromptu inauguration\, while Hal exploits the chaos behind the
-  scenes.
-DTEND:20251016T074900Z
-DTSTAMP:20251023T220004Z
-DTSTART:20251016T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Diplomat - 3x01 - Emperor Dead
-UID:NzbDrone_episode_4466
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Kate weighs a compelling offer. Eidra faces scrutiny over fall
- out from the Roylin debacle. Stuart pitches a proposal that goes far deep
- er than policy.
-DTEND:20251016T074900Z
-DTSTAMP:20251023T220004Z
-DTSTART:20251016T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Diplomat - 3x02 - Last Dance at the Country Club
-UID:NzbDrone_episode_4467
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:As the nation pauses to mourn\, Grace considers the framework 
- of her administration. Private strain threatens Kate and Hal's polished p
- ublic image.
-DTEND:20251016T074900Z
-DTSTAMP:20251023T220004Z
-DTSTART:20251016T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Diplomat - 3x03 - The Riderless Horse
-UID:NzbDrone_episode_4468
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Kate's unique role grants her access to anyone she wants — exc
- ept the one person she needs. Dennison puts actionable intelligence to pe
- rsonal use.
-DTEND:20251016T074900Z
-DTSTAMP:20251023T220004Z
-DTSTART:20251016T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Diplomat - 3x04 - Arden
-UID:NzbDrone_episode_4469
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Forced to play the perfect couple\, Kate and Hal confront a lo
- oming problem in international waters and a development that could torped
- o U.S. credibility.
-DTEND:20251016T074900Z
-DTSTAMP:20251023T220004Z
-DTSTART:20251016T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Diplomat - 3x05 - Birdwatchers
-UID:NzbDrone_episode_4470
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:At an emergency strategy session\, Grace weighs unthinkable ch
- oices\, while Kate rolls the dice on a gamble that could alter the course
-  of history.
-DTEND:20251016T074900Z
-DTSTAMP:20251023T220004Z
-DTSTART:20251016T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Diplomat - 3x06 - Amagansett
-UID:NzbDrone_episode_4471
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Sequestered inside Winfield House as embassies go on alert and
-  allies fall silent\, Kate and Callum race to contain a potential disaste
- r.
-DTEND:20251016T074900Z
-DTSTAMP:20251023T220004Z
-DTSTART:20251016T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Diplomat - 3x07 - PNG
-UID:NzbDrone_episode_6058
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Netflix
-DESCRIPTION:Kate must use all her leverage and political instincts to aver
- t a catastrophe at a high-stakes summit — with the fate of nations hangin
- g in the balance.
-DTEND:20251016T074900Z
-DTSTAMP:20251023T220004Z
-DTSTART:20251016T070000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Diplomat - 3x08 - Schrodinger's Wife
-UID:NzbDrone_episode_6059
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:Sam\, Jay and the ghosts attempt to extricate Jay from his dea
  l with Elias Woodstone\, the devil. Also\, Isaac helps Patience through a
   crisis of confidence and Pete and Alberta navigate the fallout from thei
  r kiss.
 DTEND:20251017T005100Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251017T003000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -140,7 +24,7 @@ DESCRIPTION:A tragic death rocks the team at Grey Sloan in more ways than
  tal renovations and memorials. Meanwhile\, Meredith spends time with Amel
  ia.
 DTEND:20251017T014300Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251017T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -154,7 +38,7 @@ DESCRIPTION:When a murder investigation at a famous New York toy store spi
  ess ex-con inside. Outside\, Captain Wagner clashes with a rival whose re
  ckless tactics could turn the standoff deadly.
 DTEND:20251017T024300Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251017T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -165,7 +49,7 @@ BEGIN:VEVENT
 CATEGORIES:AMC
 DESCRIPTION:Our heroes fight to protect the people they love.
 DTEND:20251020T015500Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251020T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -177,7 +61,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Stella prepares for a make-or-break 2024 Games presentation du
  ring tense talent negotiations.
 DTEND:20251022T045500Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251022T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -189,7 +73,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Lamb debriefs River and Coe. Roddy is pulled in to help deciph
  er a piece of code as the destabilization strategy nears its final stage.
 DTEND:20251022T044500Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251022T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -203,10 +87,10 @@ DESCRIPTION:Sam and Jay try to impress their trendy city friends while a m
  . Also\, Isaac rallies the ghosts to help the couple navigate a tough cus
  tomer service ordeal.
 DTEND:20251024T005100Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251024T003000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Ghosts (US) - 5x02 - Viking Wedding
 UID:NzbDrone_episode_6169
 END:VEVENT
@@ -216,10 +100,10 @@ DESCRIPTION:A high-risk lung transplant pushes the surgical team to their
  limits. Meanwhile\, Bailey juggles a trauma patient whose treatment hangs
   in the balance.
 DTEND:20251024T014300Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251024T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Grey's Anatomy - 22x03 - Between Two Lungs
 UID:NzbDrone_episode_6161
 END:VEVENT
@@ -230,10 +114,10 @@ DESCRIPTION:When "grief influencer" Raquel Drabowski's presumed-dead husba
  ile\, Elsbeth's surprise reunion with an old friend could expose a danger
  ous undercover operation.
 DTEND:20251024T024300Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251024T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Elsbeth - 3x03 - Good Grief
 UID:NzbDrone_episode_6163
 END:VEVENT
@@ -242,7 +126,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Yanko and Bradley's loyalties are tested when Claire resurface
  s.
 DTEND:20251029T045500Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251029T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -254,7 +138,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:It’s up to the Slow Horses to stop Farouk’s team from completi
  ng its mission in a final act of mass carnage.
 DTEND:20251029T044500Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251029T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -264,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251030T022200Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251030T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -276,7 +160,7 @@ CATEGORIES:CBS
 DESCRIPTION:Sam and Jay’s Halloween takes a spooky turn when they accident
  ally unleash a mummy ghost.
 DTEND:20251031T005100Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251031T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -288,7 +172,7 @@ CATEGORIES:ABC (US)
 DESCRIPTION:The interns juggle a bizarre trauma\, while a complex breast r
  econstruction forces Meredith into a tense partnership.
 DTEND:20251031T014300Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251031T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -302,7 +186,7 @@ DESCRIPTION:Elsbeth must separate trick from treat in Sleepy Hollow when a
  usewife butts heads with a new neighbor. Meanwhile\, Captain Wagner makes
   a frightening discovery about his daughter.
 DTEND:20251031T024300Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251031T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -312,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20251105T055500Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251105T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -324,7 +208,7 @@ CATEGORIES:CBS
 DESCRIPTION:Trevor finds a way to spend more time with his newly discovere
  d daughter\, Abby\, by getting her at job at Jay’s restaurant.
 DTEND:20251107T015100Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251107T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -334,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20251107T024300Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251107T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -349,7 +233,7 @@ DESCRIPTION:After a donor’s death shakes New York’s nonprofit arts scene\,
  s following in Eli’s footsteps and working as the campaign manager for a 
  mayoral candidate.
 DTEND:20251107T034300Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251107T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -359,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20251112T055500Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251112T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -369,7 +253,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251113T032200Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251113T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -378,8 +262,11 @@ UID:NzbDrone_episode_6272
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
+DESCRIPTION:Trevor’s relationship with his daughter is strained when he pu
+ shes her to follow a career in finance over poetry. Meanwhile\, Jay confr
+ onts labor unrest at the restaurant.
 DTEND:20251114T015100Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251114T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -389,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20251114T024300Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251114T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -399,17 +286,17 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20251116T085400Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251116T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Landman - 2x01 - Death and a Sunset
+SUMMARY:Landman - 2x01 - TBA
 UID:NzbDrone_episode_2487
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20251119T055500Z
-DTSTAMP:20251023T220004Z
+DTSTAMP:20251024T220003Z
 DTSTART:20251119T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
