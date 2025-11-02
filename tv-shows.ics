@@ -5,81 +5,13 @@ VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
 CATEGORIES:Apple TV
-DESCRIPTION:Stella prepares for a make-or-break 2024 Games presentation du
- ring tense talent negotiations.
-DTEND:20251022T045500Z
-DTSTAMP:20251028T230003Z
-DTSTART:20251022T040000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Morning Show - 4x06 - If Then
-UID:NzbDrone_episode_6218
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Apple TV
-DESCRIPTION:Lamb debriefs River and Coe. Roddy is pulled in to help deciph
- er a piece of code as the destabilization strategy nears its final stage.
-DTEND:20251022T044500Z
-DTSTAMP:20251028T230003Z
-DTSTART:20251022T040000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Slow Horses - 5x05 - Circus
-UID:NzbDrone_episode_6254
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:Sam and Jay try to impress their trendy city friends while a m
- isplaced bookcase threatens Thor’s ability to deliver an important speech
- . Also\, Isaac rallies the ghosts to help the couple navigate a tough cus
- tomer service ordeal.
-DTEND:20251024T005100Z
-DTSTAMP:20251028T230003Z
-DTSTART:20251024T003000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Ghosts (US) - 5x02 - Viking Wedding
-UID:NzbDrone_episode_6169
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:A high-risk lung transplant pushes the surgical team to their 
- limits. Meanwhile\, Bailey juggles a trauma patient whose treatment hangs
-  in the balance\, Lucas' war with Wes begins to impact his decision makin
- g\, Teddy takes her mind off things by assisting Jo with car sale negotia
- tions\, and Kwan gets off to a rocky start with new plastics fellow Dr. M
- ohanty.
-DTEND:20251024T014300Z
-DTSTAMP:20251028T230003Z
-DTSTART:20251024T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Grey's Anatomy - 22x03 - Between Two Lungs
-UID:NzbDrone_episode_6161
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:When "grief influencer" Raquel Drabowski's presumed-dead husba
- nd makes a miraculous return\, their reunion takes a fatal plunge. Meanwh
- ile\, Elsbeth's surprise reunion with an old friend could expose a danger
- ous undercover operation.
-DTEND:20251024T024300Z
-DTSTAMP:20251028T230003Z
-DTSTART:20251024T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Elsbeth - 3x03 - Good Grief
-UID:NzbDrone_episode_6163
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Apple TV
 DESCRIPTION:Yanko and Bradley's loyalties are tested when Claire resurface
  s.
 DTEND:20251029T045500Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251029T040000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Morning Show - 4x07 - Person of Interest
 UID:NzbDrone_episode_6219
 END:VEVENT
@@ -88,10 +20,10 @@ CATEGORIES:Apple TV
 DESCRIPTION:It’s up to the Slow Horses to stop Farouk’s team from completi
  ng its mission in a final act of mass carnage.
 DTEND:20251029T044500Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251029T040000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Slow Horses - 5x06 - Scars
 UID:NzbDrone_episode_6255
 END:VEVENT
@@ -100,10 +32,10 @@ CATEGORIES:Comedy Central
 DESCRIPTION:The White House deals with a disruptive spirit from the east w
  ing\, while Stan worries that South Park has become too political.
 DTEND:20251030T022200Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251030T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:South Park - 28x02 - The Woman In The Hat
 UID:NzbDrone_episode_6271
 END:VEVENT
@@ -112,10 +44,10 @@ CATEGORIES:CBS
 DESCRIPTION:Sam and Jay’s Halloween takes a spooky turn when they accident
  ally unleash a mummy ghost.
 DTEND:20251031T005100Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251031T003000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Ghosts (US) - 5x03 - Halloween 5: The Mummy
 UID:NzbDrone_episode_6170
 END:VEVENT
@@ -125,10 +57,10 @@ DESCRIPTION:The interns juggle a bizarre trauma\, Teddy begins to apprecia
  te her circumstances\, while a complex breast reconstruction forces Mered
  ith into a tense partnership.
 DTEND:20251031T014300Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251031T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Grey's Anatomy - 22x04 - Goodbye Horses
 UID:NzbDrone_episode_6162
 END:VEVENT
@@ -139,17 +71,17 @@ DESCRIPTION:Elsbeth must separate trick from treat in Sleepy Hollow when a
  usewife butts heads with a new neighbor. Meanwhile\, Captain Wagner makes
   a frightening discovery about his daughter.
 DTEND:20251031T024300Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251031T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Elsbeth - 3x04 - Ick\, A Bod
 UID:NzbDrone_episode_6164
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20251105T055500Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251105T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -161,7 +93,7 @@ CATEGORIES:CBS
 DESCRIPTION:Trevor finds a way to spend more time with his newly discovere
  d daughter\, Abby\, by getting her at job at Jay’s restaurant.
 DTEND:20251107T015100Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251107T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -171,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20251107T024300Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251107T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -186,7 +118,7 @@ DESCRIPTION:After a donor's death shakes New York’s nonprofit arts scene\,
  s following in Eli's footsteps and working as the campaign manager for a 
  mayoral candidate.
 DTEND:20251107T034300Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251107T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -196,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20251112T055500Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251112T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -206,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251113T032200Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251113T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -219,7 +151,7 @@ DESCRIPTION:Trevor’s relationship with his daughter is strained when he pu
  shes her to follow a career in finance over poetry. Meanwhile\, Jay confr
  onts labor unrest at the restaurant.
 DTEND:20251114T015100Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251114T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -229,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20251114T024300Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251114T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -239,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+
 DTEND:20251116T085400Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251116T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -249,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20251119T055500Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251119T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -262,7 +194,7 @@ DESCRIPTION:Sam and Pete get on each other's nerves during a book tour roa
  d trip and things reach a breaking point when an airline strike threatens
   their ability to get home in time for Thanksgiving.
 DTEND:20251121T015100Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251121T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -276,11 +208,33 @@ DESCRIPTION:When a crisis manager vanishes inside a billionaire's panic ro
  between security and paranoia. Meanwhile\, Elsbeth meets the late Judge C
  rawford's widow\, Winnie.
 DTEND:20251121T034300Z
-DTSTAMP:20251028T230003Z
+DTSTAMP:20251102T230003Z
 DTSTART:20251121T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Elsbeth - 3x06 - Bunker Down
 UID:NzbDrone_episode_6166
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Comedy Central
+DTEND:20251127T032200Z
+DTSTAMP:20251102T230003Z
+DTSTART:20251127T030000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:South Park - 28x04 - TBA
+UID:NzbDrone_episode_6273
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:The team investigates the murder of a pop star whose last days
+  were spent ruffling feathers at a convent.
+DTEND:20251128T034300Z
+DTSTAMP:20251102T230003Z
+DTSTART:20251128T030000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Elsbeth - 3x07 - ...Who Aren't in Heaven
+UID:NzbDrone_episode_6167
 END:VEVENT
 END:VCALENDAR
