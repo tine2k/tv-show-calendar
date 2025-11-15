@@ -4,50 +4,10 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:Trevor finds a way to spend more time with his newly discovere
- d daughter\, Abby\, by getting her at job at Jay’s restaurant.
-DTEND:20251107T015100Z
-DTSTAMP:20251114T230003Z
-DTSTART:20251107T013000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Ghosts (US) - 5x04 - Bring Your Daughter to Work Day
-UID:NzbDrone_episode_6171
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Jo navigates a challenging case with a pregnant mother\, while
-  Blue and Jules care for a diabetic patient. Meanwhile\, Simone treats a 
- patient with a surprising revelation.
-DTEND:20251107T024300Z
-DTSTAMP:20251114T230003Z
-DTSTART:20251107T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Grey's Anatomy - 22x05 - Sometimes I Feel Like a Motherless Child
-UID:NzbDrone_episode_6259
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:After a donor's death shakes New York’s nonprofit arts scene\,
-  Elsbeth questions the motives of the victim's friend\, Gary\, the founde
- r of a prominent poetry journal. Also\, Elsbeth runs into Marissa\, who i
- s following in Eli's footsteps and working as the campaign manager for a 
- mayoral candidate.
-DTEND:20251107T034300Z
-DTSTAMP:20251114T230003Z
-DTSTART:20251107T030000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Elsbeth - 3x05 - Poetic Justice
-UID:NzbDrone_episode_6165
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:A night at the opera provides cover for a secret rendezvous.
 DTEND:20251112T055400Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251112T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,7 +20,7 @@ DESCRIPTION:Butters’ Al revenge plan backfires\, igniting an epidemic of f
  ake videos at school that leaves Detective Harris struggling to tell fant
  asy from reality.
 DTEND:20251113T032200Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251113T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -73,7 +33,7 @@ DESCRIPTION:Trevor’s relationship with his daughter is strained when he pu
  shes her to follow a career in finance over poetry. Meanwhile\, Jay confr
  onts labor unrest at the restaurant.
 DTEND:20251114T015100Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251114T013000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -86,7 +46,7 @@ DESCRIPTION:Grey Sloan takes in patients following a catastrophic bus acci
  dent. Teddy and Owen have an awkward encounter\, and Richard tests Bailey
  's patience.
 DTEND:20251114T024300Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251114T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -100,7 +60,7 @@ DESCRIPTION:When a crisis manager vanishes inside a billionaire's panic ro
  between security and paranoia. Meanwhile\, Elsbeth meets the late Judge C
  rawford's widow\, Winnie.
 DTEND:20251114T034300Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251114T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -111,7 +71,7 @@ BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:Tommy navigates a tense landscape as Cami asserts control.
 DTEND:20251116T085400Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251116T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -122,7 +82,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Alex lays everything on the line to bring Bradley home.
 DTEND:20251119T055400Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251119T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -137,7 +97,7 @@ DESCRIPTION:Unsatisfied with Jay’s ability to tend to their needs while Sa
   things reach a breaking point when an airline strike threatens their abi
  lity to get home in time for Thanksgiving.
 DTEND:20251121T015100Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251121T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -151,7 +111,7 @@ DESCRIPTION:A pop star's purchase of a failing convent turns divine real e
  nwhile\, Teddy digs into Alec Bloom's past for a feature he is working on
  .
 DTEND:20251121T034300Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251121T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -163,7 +123,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Cami is blindsided\; Tommy warns Cooper about his shady entang
  lements.
 DTEND:20251123T085400Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251123T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -173,7 +133,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251127T032200Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251127T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -185,7 +145,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Tommy confronts Cami about finances\; Cooper's success draws a
  ttention.
 DTEND:20251130T085400Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251130T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -198,7 +158,7 @@ DESCRIPTION:Sam helps Eric plan the perfect proposal for Bela\, until an e
  ncounter with Sasappis plants doubt in Bela’s mind. Meanwhile\, Isaac tri
  es to prove he’s “just one of the basement ghosts".
 DTEND:20251205T015100Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251205T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -212,7 +172,7 @@ DESCRIPTION:Elsbeth goes from the squad room to the locker room when a cam
  or winds up dead following a heated confrontation with his basketball coa
  ch's 22-year-old girlfriend.
 DTEND:20251205T034300Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251205T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -224,7 +184,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:A tragic crash sets off a day of reckoning for the Norris fami
  ly.
 DTEND:20251207T085400Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251207T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -234,11 +194,35 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251211T032200Z
-DTSTAMP:20251114T230003Z
+DTSTAMP:20251115T230003Z
 DTSTART:20251211T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:South Park - 28x05 - TBA
 UID:NzbDrone_episode_6274
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:Now a successful podcaster\, Todd Pearlman returns to profile 
+ Sam and Isaac’s book\, but becomes obsessed with Jay. Meanwhile\, Pete tr
+ ies to get to the bottom of why Alberta changed her name\, forcing her to
+  admit a hidden truth.
+DTEND:20251212T015100Z
+DTSTAMP:20251115T230003Z
+DTSTART:20251212T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Ghosts (US) - 5x08 - The Life and Times of Esther Greene
+UID:NzbDrone_episode_6277
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DTEND:20251212T034300Z
+DTSTAMP:20251115T230003Z
+DTSTART:20251212T030000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Elsbeth - 3x09 - TBA
+UID:NzbDrone_episode_6268
 END:VEVENT
 END:VCALENDAR
