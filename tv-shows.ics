@@ -4,50 +4,10 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:Trevor’s relationship with his daughter is strained when he pu
- shes her to follow a career in finance over poetry. Meanwhile\, Jay confr
- onts labor unrest at the restaurant.
-DTEND:20251114T015100Z
-DTSTAMP:20251121T230003Z
-DTSTART:20251114T013000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Ghosts (US) - 5x05 - T-Daddy
-UID:NzbDrone_episode_6172
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:Grey Sloan takes in patients following a catastrophic bus acci
- dent. Teddy and Owen have an awkward encounter\, and Richard tests Bailey
- 's patience.
-DTEND:20251114T024300Z
-DTSTAMP:20251121T230003Z
-DTSTART:20251114T020000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Grey's Anatomy - 22x06 - When I Crash
-UID:NzbDrone_episode_6266
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:When a crisis manager vanishes inside a billionaire's panic ro
- om\, Elsbeth unravels the highly equipped fortresses that blur the lines 
- between security and paranoia. Meanwhile\, Elsbeth meets the late Judge C
- rawford's widow\, Winnie.
-DTEND:20251114T034300Z
-DTSTAMP:20251121T230003Z
-DTSTART:20251114T030000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Elsbeth - 3x06 - Bunker Down
-UID:NzbDrone_episode_6166
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Paramount+
 DESCRIPTION:Tommy navigates a tense landscape as Cami asserts control.
 DTEND:20251116T085400Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251116T080000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -58,7 +18,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Alex lays everything on the line to bring Bradley home.
 DTEND:20251119T055400Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251119T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -73,7 +33,7 @@ DESCRIPTION:Unsatisfied with Jay’s ability to tend to their needs while Sa
   things reach a breaking point when an airline strike threatens their abi
  lity to get home in time for Thanksgiving.
 DTEND:20251121T015100Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251121T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -87,7 +47,7 @@ DESCRIPTION:A pop star's purchase of a failing convent turns divine real e
  nwhile\, Teddy digs into Alec Bloom's past for a feature he is working on
  .
 DTEND:20251121T034300Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251121T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -99,7 +59,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Cami is blindsided\; Tommy warns Cooper about his shady entang
  lements.
 DTEND:20251123T085400Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251123T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -109,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251127T032200Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251127T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -121,7 +81,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Tommy confronts Cami about finances\; Cooper's success draws a
  ttention.
 DTEND:20251130T085400Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251130T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -134,7 +94,7 @@ DESCRIPTION:Sam helps Eric plan the perfect proposal for Bela\, until an e
  ncounter with Sasappis plants doubt in Bela’s mind. Meanwhile\, Isaac tri
  es to prove he’s “just one of the basement ghosts".
 DTEND:20251205T015100Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251205T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -148,7 +108,7 @@ DESCRIPTION:Elsbeth goes from the squad room to the locker room when a cam
  or winds up dead following a heated confrontation with his basketball coa
  ch's 22-year-old girlfriend.
 DTEND:20251205T034300Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251205T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -160,7 +120,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:A tragic crash sets off a day of reckoning for the Norris fami
  ly.
 DTEND:20251207T085400Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251207T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -170,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251211T032200Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251211T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -184,7 +144,7 @@ DESCRIPTION:Now a successful podcaster\, Todd Pearlman returns to profile
  ies to get to the bottom of why Alberta changed her name\, forcing her to
   admit a hidden truth.
 DTEND:20251212T015100Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251212T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -197,7 +157,7 @@ DESCRIPTION:A fallen '90s supermodel returns to New York for a reunion and
   revenge\, leading Elsbeth to sort through old grudges and lies to catch 
  a killer. Meanwhile\, Officer Hackett takes her turn in the spotlight.
 DTEND:20251212T034300Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251212T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -209,7 +169,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Tommy juggles multiple crises\; Angela throws a dinner to welc
  ome T.L.
 DTEND:20251214T085400Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251214T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -219,11 +179,48 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DTEND:20251217T060000Z
-DTSTAMP:20251121T230003Z
+DTSTAMP:20251122T230003Z
 DTSTART:20251217T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Fallout - 2x01 - TBA
 UID:NzbDrone_episode_6125
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:Sam’s big Christmas Eve TV interview with Walter Storm takes a
+ n unexpected turn. Meanwhile\, Trevor and Patience bond over their mutual
+  disinterest in celebrating Christmas.
+DTEND:20251219T015100Z
+DTSTAMP:20251122T230003Z
+DTSTART:20251219T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Ghosts (US) - 5x09 - It's a Wonderful Christmas Carol (1)
+UID:NzbDrone_episode_6278
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:Sam gets a glimpse of what her life would be like if she could
+  never see the ghosts.
+DTEND:20251219T021200Z
+DTSTAMP:20251122T230003Z
+DTSTART:20251219T015100Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Ghosts (US) - 5x10 - It's a Wonderful Christmas Carol (2)
+UID:NzbDrone_episode_6279
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:When an avant-garde choreographer's "Nutcracker" rehearsal tur
+ ns deadly\, Elsbeth leaps into the cutthroat world of New York ballet.
+DTEND:20251219T034300Z
+DTSTAMP:20251122T230003Z
+DTSTART:20251219T030000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Elsbeth - 3x10 - A Hard Nut to Crack
+UID:NzbDrone_episode_6269
 END:VEVENT
 END:VCALENDAR
