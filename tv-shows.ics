@@ -4,23 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:Apple TV
-DESCRIPTION:Alex lays everything on the line to bring Bradley home.
-DTEND:20251119T055400Z
-DTSTAMP:20251126T230003Z
-DTSTART:20251119T050000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:The Morning Show - 4x10 - Knowing Violation
-UID:NzbDrone_episode_6222
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:CBS
 DESCRIPTION:Sam and Pete get on each other's nerves during a book tour roa
  d trip and things reach a breaking point when an airline strike threatens
   their ability to get home in time for Thanksgiving.
 DTEND:20251121T015100Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251121T013000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,7 +23,7 @@ DESCRIPTION:A pop star's purchase of a failing convent turns divine real e
  nwhile\, Teddy digs into Alec Bloom's past for a feature he is working on
  .
 DTEND:20251121T034300Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251121T030000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -46,7 +35,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Cami is blindsided\; Tommy warns Cooper about his shady entang
  lements.
 DTEND:20251123T085400Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251123T080000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -55,28 +44,35 @@ UID:NzbDrone_episode_2488
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
+DESCRIPTION:November\, 1987. The gang evades the military to scour the Ups
+ ide Down for Vecna — but fails to notice a threat lurking closer to home.
 DTEND:20251127T020500Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251127T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Stranger Things - 5x01 - Chapter One: The Crawl
 UID:NzbDrone_episode_6415
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
+DESCRIPTION:After a vicious attack at the Wheeler home\, Mike and Nancy co
+ nfront the cost of secrecy\, while El and Hopper embark on a rescue missi
+ on.
 DTEND:20251127T020500Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251127T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Stranger Things - 5x02 - Chapter Two: The Vanishing of …
+SUMMARY:Stranger Things - 5x02 - Chapter Two: The Vanishing of…
 UID:NzbDrone_episode_6416
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
+DESCRIPTION:Will gains unique insight into Vecna's next move\, giving the 
+ crew an opportunity to set a trap. Holly explores her new surroundings.
 DTEND:20251127T020500Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251127T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -85,8 +81,10 @@ UID:NzbDrone_episode_6417
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
+DESCRIPTION:The military tightens its grip on the town. Mike\, Lucas and R
+ obin orchestrate a daring escape. El comes face-to-face with the enemy.
 DTEND:20251127T020500Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251127T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -98,10 +96,10 @@ CATEGORIES:Comedy Central
 DESCRIPTION:The town’s annual Turkey Trot turns chaotic when Cartman uses 
  questionable cutting-edge science to win the race.
 DTEND:20251127T032200Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251127T030000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:South Park - 28x04 - Turkey Trot
 UID:NzbDrone_episode_6273
 END:VEVENT
@@ -110,7 +108,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Tommy confronts Cami about finances\; Cooper's success draws a
  ttention.
 DTEND:20251130T085400Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251130T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -123,7 +121,7 @@ DESCRIPTION:Sam helps Eric plan the perfect proposal for Bela\, until an e
  ncounter with Sasappis plants doubt in Bela’s mind. Meanwhile\, Isaac tri
  es to prove he’s “just one of the basement ghosts".
 DTEND:20251205T015100Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251205T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -137,7 +135,7 @@ DESCRIPTION:Elsbeth goes from the squad room to the locker room when a cam
  or winds up dead following a heated confrontation with his basketball coa
  ch's 22-year-old girlfriend.
 DTEND:20251205T034300Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251205T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -149,7 +147,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:A tragic crash sets off a day of reckoning for the Norris fami
  ly.
 DTEND:20251207T085400Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251207T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -159,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Comedy Central
 DTEND:20251211T032200Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251211T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -173,7 +171,7 @@ DESCRIPTION:Now a successful podcaster\, Todd Pearlman returns to profile
  ies to get to the bottom of why Alberta changed her name\, forcing her to
   admit a hidden truth.
 DTEND:20251212T015100Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251212T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -186,7 +184,7 @@ DESCRIPTION:A fallen '90s supermodel returns to New York for a reunion and
   revenge\, leading Elsbeth to sort through old grudges and lies to catch 
  a killer. Meanwhile\, Officer Hackett takes her turn in the spotlight.
 DTEND:20251212T034300Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251212T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -198,7 +196,7 @@ CATEGORIES:Paramount+
 DESCRIPTION:Tommy juggles multiple crises\; Angela throws a dinner to welc
  ome T.L.
 DTEND:20251214T085400Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251214T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -208,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Prime Video
 DTEND:20251217T060000Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251217T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -221,7 +219,7 @@ DESCRIPTION:Sam’s big Christmas Eve TV interview with Walter Storm takes a
  n unexpected turn. Meanwhile\, Trevor and Patience bond over their mutual
   disinterest in celebrating Christmas.
 DTEND:20251219T015100Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251219T013000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -233,7 +231,7 @@ CATEGORIES:CBS
 DESCRIPTION:Sam gets a glimpse of what her life would be like if she could
   never see the ghosts.
 DTEND:20251219T021200Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251219T015100Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -245,7 +243,7 @@ CATEGORIES:CBS
 DESCRIPTION:When an avant-garde choreographer's "Nutcracker" rehearsal tur
  ns deadly\, Elsbeth leaps into the cutthroat world of New York ballet.
 DTEND:20251219T034300Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251219T030000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -257,11 +255,21 @@ CATEGORIES:Paramount+
 DESCRIPTION:Tommy negotiates a risky offshore drilling deal as tensions ri
  se with Cami.
 DTEND:20251221T085400Z
-DTSTAMP:20251126T230003Z
+DTSTAMP:20251127T230003Z
 DTSTART:20251221T080000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Landman - 2x06 - Dark Night of the Soul
 UID:NzbDrone_episode_6082
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20251224T060000Z
+DTSTAMP:20251127T230003Z
+DTSTART:20251224T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Fallout - 2x02 - TBA
+UID:NzbDrone_episode_6126
 END:VEVENT
 END:VCALENDAR
