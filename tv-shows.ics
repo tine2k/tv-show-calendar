@@ -10,7 +10,7 @@ DESCRIPTION:Trevor lands himself in trouble when an inappropriate gift to
  , Pete unintentionally sparks drama with Alberta after casually mentionin
  g a surprise visit to his ex.
 DTEND:20260410T005100Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260410T003000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -23,7 +23,7 @@ DESCRIPTION:After his bike takes a hit in the ambulance bay\, Robby levels
   with Duke. A spinal cord injury forces Langdon to attempt a risky proced
  ure.
 DTEND:20260410T014800Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260410T010000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,7 +36,7 @@ DESCRIPTION:When a serial bride is found bludgeoned in her apartment\, Els
  beth investigates the victim’s best friend\, a particularly experienced\,
   and bitter bridesmaid.
 DTEND:20260410T024300Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260410T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,7 +49,7 @@ DESCRIPTION:Shaw receives an impossible radio transmission. Cate and Keiko
   uncover an ancient link to Titan X. Isabel has a proposition for Kentaro
  .
 DTEND:20260410T044600Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260410T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -62,7 +62,7 @@ DESCRIPTION:In this Griffin family spoof of the Old West\, Peter\, known a
  s Quiet Burp\, and his gang of outlaws agree to escort a wealthy business
  man on a train journey.
 DTEND:20260413T002200Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260413T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -75,7 +75,7 @@ DESCRIPTION:When Stewie puts on a pair of boots that make him slightly tal
  ler\, his newfound confidence changes the power dynamic in the Griffin fa
  mily.
 DTEND:20260413T004400Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260413T002200Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -87,7 +87,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:After a startling discovery\, Mary struggles to square reality
   with perception.
 DTEND:20260415T044400Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260415T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -101,10 +101,10 @@ DESCRIPTION:Needing to raise a large sum of money to pay the IRS\, Sam and
  n an act of generosity\, Isaac gifts Jay’s recliner to the basement ghost
  s.
 DTEND:20260417T005100Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260417T003000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Ghosts (US) - 5x16 - Woodstone Royale
 UID:NzbDrone_episode_6737
 END:VEVENT
@@ -114,10 +114,10 @@ DESCRIPTION:Al-Hashimi reveals details from her medical history\, forcing
  Robby to face an ethical dilemma as he prepares to leave for his sabbatic
  al.
 DTEND:20260417T014800Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260417T010000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Pitt - 2x15 - 9:00 P.M.
 UID:NzbDrone_episode_6502
 END:VEVENT
@@ -126,10 +126,10 @@ CATEGORIES:CBS
 DESCRIPTION:Elsbeth organizes a book club to investigate a celebrated nove
  list who may have written the perfect crime.
 DTEND:20260417T024300Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260417T020000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Elsbeth - 3x16 - Murder\, He Wrote
 UID:NzbDrone_episode_6738
 END:VEVENT
@@ -139,10 +139,10 @@ DESCRIPTION:Titan X makes landfall in Australia\, where Shaw lures Godzill
  a into a showdown. Isabel uses the battle as a distraction for her secret
   operation.
 DTEND:20260417T044600Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260417T040000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Monarch: Legacy of Monsters - 2x08 - Separate Ways
 UID:NzbDrone_episode_6366
 END:VEVENT
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Mary and Eleanor’s quest for justice runs into complications.
 DTEND:20260422T044400Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260422T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -164,7 +164,7 @@ DESCRIPTION:When a promising opportunity to save Woodstone is threatened b
  eanwhile\, election day arrives as Flower and Isaac go head‑to‑head to be
  come Ghost Representative.
 DTEND:20260424T005100Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260424T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -173,8 +173,11 @@ UID:NzbDrone_episode_6740
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
+DESCRIPTION:Monarch and the team head to Skull Island. Cate tries to reaso
+ n with Kentaro and stop Isabel. Shaw and Keiko search for Billy’s long-lo
+ st rift.
 DTEND:20260424T044600Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260424T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -187,7 +190,7 @@ DESCRIPTION:A colonoscopy reveals Peter has a rare collectible toy action
  figure lodged in his intestine\, but the reward for selling it causes a r
  ift between him and the guys.
 DTEND:20260427T002200Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260427T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -197,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260429T044400Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260429T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -211,7 +214,7 @@ DESCRIPTION:When new pressures threaten Sam and Jay’s control over Woodsto
  re. Meanwhile\, a long-absent ghost returns\, reopening emotional connect
  ions that complicate new relationships.
 DTEND:20260501T005100Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260501T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -221,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20260501T014300Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260501T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -230,11 +233,11 @@ UID:NzbDrone_episode_6717
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
-DESCRIPTION:After a billionaire’s son dies in a motorcycle crash\, Elsbeth
-  investigates a wealth therapist whose knowledge of her patients’ secrets
+DESCRIPTION:After a billionaire's son dies in a motorcycle crash\, Elsbeth
+  investigates a wealth therapist whose knowledge of her patients' secrets
   led to murder.
 DTEND:20260501T024300Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260501T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -244,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20260501T044600Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260501T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -254,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20260504T002200Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260504T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -263,8 +266,12 @@ UID:NzbDrone_episode_6677
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
+DESCRIPTION:When an emotion‑driven decision puts Woodstone at risk\, Sam a
+ nd Jay step up to defend what they’ve built. Meanwhile\, Isaac struggles 
+ to adjust to new surroundings\, only to realize that some connections are
+  too important to leave behind.
 DTEND:20260508T005100Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260508T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -274,7 +281,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ABC (US)
 DTEND:20260508T014300Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260508T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -283,8 +290,11 @@ UID:NzbDrone_episode_6718
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CBS
+DESCRIPTION:When an ambitious filmmaker dies in a suspicious cleaning acci
+ dent\, Elsbeth focuses on the subject of her final documentary: a "trad w
+ ife"  whose from-scratch lifestyle included a deadly ingredient.
 DTEND:20260508T024300Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260508T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -294,7 +304,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20260511T002200Z
-DTSTAMP:20260416T220003Z
+DTSTAMP:20260417T220003Z
 DTSTART:20260511T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
