@@ -7,7 +7,7 @@ BEGIN:VEVENT
 CATEGORIES:Apple TV
 DESCRIPTION:Mary and Eleanor’s quest for justice runs into complications.
 DTEND:20260422T044500Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260422T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -21,7 +21,7 @@ DESCRIPTION:When a promising opportunity to save Woodstone is threatened b
  eanwhile\, election day arrives as Flower and Isaac go head‑to‑head to be
  come Ghost Representative.
 DTEND:20260424T005100Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260424T003000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -34,7 +34,7 @@ DESCRIPTION:Monarch and the team head to Skull Island. Cate tries to reaso
  n with Kentaro and stop Isabel. Shaw and Keiko search for Billy’s long-lo
  st rift.
 DTEND:20260424T044600Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260424T040000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -47,10 +47,10 @@ DESCRIPTION:A colonoscopy reveals Peter has a rare collectible toy action
  figure lodged in his intestine\, but the reward for selling it causes a r
  ift between him and the guys.
 DTEND:20260427T002200Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260427T000000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:Family Guy - 24x12 - Lower G.I. Joe
 UID:NzbDrone_episode_6676
 END:VEVENT
@@ -59,7 +59,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:As new information emerges\, Mary and Eleanor risk it all to e
  xpose the truth and find closure.
 DTEND:20260429T044500Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260429T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -73,7 +73,7 @@ DESCRIPTION:When new pressures threaten Sam and Jay’s control over Woodsto
  re. Meanwhile\, a long-absent ghost returns\, reopening emotional connect
  ions that complicate new relationships.
 DTEND:20260501T005100Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260501T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -86,7 +86,7 @@ DESCRIPTION:A Station 19 firefighter lands in the ER for severe burn treat
  ment\, and the team treats an elderly patient impaled by an art structure
  . A Fox Foundation innovation competition reunites Meredith and Bailey.
 DTEND:20260501T014300Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260501T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -99,7 +99,7 @@ DESCRIPTION:After a billionaire's son dies in a motorcycle crash\, Elsbeth
   investigates a wealth therapist whose knowledge of her patients' secrets
   led to murder.
 DTEND:20260501T024300Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260501T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -111,7 +111,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Kong and Titan X face off in a colossal clash that threatens t
  o reshape Skull Island. Shaw embarks on a dangerous journey.
 DTEND:20260501T044600Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260501T040000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -123,7 +123,7 @@ CATEGORIES:FOX
 DESCRIPTION:Stewie becomes engaged to Rupert\, but Brian is upset when he 
  is not chosen as the best man.
 DTEND:20260504T002200Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260504T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -137,7 +137,7 @@ DESCRIPTION:When an emotion‑driven decision puts Woodstone at risk\, Sam a
  to adjust to new surroundings\, only to realize that some connections are
   too important to leave behind.
 DTEND:20260508T005100Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260508T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -151,7 +151,7 @@ DESCRIPTION:After a catastrophic bridge collapse sends dozens of victims t
  race to treat a surge of critically injured patients\, including one of t
  heir own.
 DTEND:20260508T014300Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260508T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -164,7 +164,7 @@ DESCRIPTION:When an ambitious filmmaker dies in a suspicious cleaning acci
  dent\, Elsbeth focuses on the subject of her final documentary: a "trad w
  ife"  whose from-scratch lifestyle included a deadly ingredient.
 DTEND:20260508T024300Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260508T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -177,7 +177,7 @@ DESCRIPTION:A powerful sleeping aid medication gives Joe the ability to wa
  lk while he is asleep\, but Joe grows concerned when it becomes clear tha
  t the guys prefer his sleepwalking self.
 DTEND:20260511T002200Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260511T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -191,7 +191,7 @@ DESCRIPTION:When a Hollywood producer comes to scout Woodstone as a filmin
  d support from the ghosts. Meanwhile\, changing roles among the ghosts sp
  ark a heartfelt effort to honor someone special.
 DTEND:20260515T005100Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260515T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -203,7 +203,7 @@ CATEGORIES:CBS
 DESCRIPTION:Elsbeth battles a veteran gossip columnist who trades in peopl
  e’s secrets – and may have killed to keep her own.
 DTEND:20260515T024300Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260515T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -213,7 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:FOX
 DTEND:20260518T002200Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260518T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -226,7 +226,7 @@ DESCRIPTION:When Woodstone’s future is put in jeopardy\, Sam and Jay join
  forces with the ghosts to protect the mansion by securing its place in hi
  story.
 DTEND:20260522T005100Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260522T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -239,7 +239,7 @@ DESCRIPTION:A trip abroad could determine Woodstone’s fate. Meanwhile\, a
  major career opportunity takes Sam out of town\, leaving others to step i
  n and help with the ghosts.
 DTEND:20260522T011200Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260522T005100Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -251,7 +251,7 @@ CATEGORIES:CBS
 DESCRIPTION:A minor royal's mysterious death at New York's most legendary 
  hotel brings Elsbeth into a world of faded elegance\, cabaret and murder.
 DTEND:20260522T024300Z
-DTSTAMP:20260426T220003Z
+DTSTAMP:20260427T220005Z
 DTSTART:20260522T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
