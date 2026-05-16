@@ -4,53 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:When an emotion‑driven decision puts Woodstone at risk\, Sam a
- nd Jay step up to defend what they’ve built. Meanwhile\, Isaac struggles 
- to adjust to new surroundings\, only to realize that some connections are
-  too important to leave behind.
-DTEND:20260508T005100Z
-DTSTAMP:20260515T220003Z
-DTSTART:20260508T003000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Ghosts (US) - 5x19 - Gate-gate
-UID:NzbDrone_episode_6745
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ABC (US)
-DESCRIPTION:After a catastrophic bridge collapse sends dozens of victims t
- o Grey Sloan\, the hospital activates its full disaster response as they 
- race to treat a surge of critically injured patients\, including one of t
- heir own.
-DTEND:20260508T014300Z
-DTSTAMP:20260515T220003Z
-DTSTART:20260508T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Grey's Anatomy - 22x18 - Bridge Over Troubled Water
-UID:NzbDrone_episode_6718
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CBS
-DESCRIPTION:When an ambitious filmmaker dies in a suspicious cleaning acci
- dent\, Elsbeth focuses on the subject of her final documentary: a "trad w
- ife"  whose from-scratch lifestyle included a deadly ingredient.
-DTEND:20260508T014300Z
-DTSTAMP:20260515T220003Z
-DTSTART:20260508T010000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Elsbeth - 3x18 - Murder from Scratch
-UID:NzbDrone_episode_6741
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:FOX
 DESCRIPTION:A powerful sleeping aid medication gives Joe the ability to wa
  lk while he is asleep\, but Joe grows concerned when it becomes clear tha
  t the guys prefer his sleepwalking self.
 DTEND:20260511T002200Z
-DTSTAMP:20260515T220003Z
+DTSTAMP:20260516T220004Z
 DTSTART:20260511T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -64,7 +23,7 @@ DESCRIPTION:When a Hollywood producer comes to scout Woodstone as a filmin
  d support from the ghosts. Meanwhile\, changing roles among the ghosts sp
  ark a heartfelt effort to honor someone special.
 DTEND:20260515T005100Z
-DTSTAMP:20260515T220003Z
+DTSTAMP:20260516T220004Z
 DTSTART:20260515T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -76,7 +35,7 @@ CATEGORIES:CBS
 DESCRIPTION:Elsbeth battles a veteran gossip columnist who trades in peopl
  e's secrets – and may have killed to keep her own.
 DTEND:20260515T014300Z
-DTSTAMP:20260515T220003Z
+DTSTAMP:20260516T220004Z
 DTSTART:20260515T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -89,7 +48,7 @@ DESCRIPTION:In this three-act parody of prominent historical eras\, the Gr
  iffins take a humorous look at The French Revolution\, the American Civil
   War\, and World War II.
 DTEND:20260518T002200Z
-DTSTAMP:20260515T220003Z
+DTSTAMP:20260516T220004Z
 DTSTART:20260518T000000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -102,7 +61,7 @@ DESCRIPTION:When Woodstone’s future is put in jeopardy\, Sam and Jay join
  forces with the ghosts to protect the mansion by securing its place in hi
  story.
 DTEND:20260522T005100Z
-DTSTAMP:20260515T220003Z
+DTSTAMP:20260516T220004Z
 DTSTART:20260522T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -115,7 +74,7 @@ DESCRIPTION:A trip abroad could determine Woodstone’s fate. Meanwhile\, a
  major career opportunity takes Sam out of town\, leaving others to step i
  n and help with the ghosts.
 DTEND:20260522T011200Z
-DTSTAMP:20260515T220003Z
+DTSTAMP:20260516T220004Z
 DTSTART:20260522T005100Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -127,7 +86,7 @@ CATEGORIES:CBS
 DESCRIPTION:A minor royal's mysterious death at New York's most legendary 
  hotel brings Elsbeth into a world of faded elegance\, cabaret and murder.
 DTEND:20260522T014300Z
-DTSTAMP:20260515T220003Z
+DTSTAMP:20260516T220004Z
 DTSTART:20260522T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
