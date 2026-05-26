@@ -4,25 +4,12 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:Sonarr TV Schedule
 BEGIN:VEVENT
-CATEGORIES:FOX
-DESCRIPTION:In this three-act parody of prominent historical eras\, the Gr
- iffins take a humorous look at The French Revolution\, the American Civil
-  War\, and World War II.
-DTEND:20260518T002200Z
-DTSTAMP:20260525T220003Z
-DTSTART:20260518T000000Z
-SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:Family Guy - 24x15 - High School History
-UID:NzbDrone_episode_6679
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Netflix
 DESCRIPTION:When grieving widower Sam Cooper reluctantly moves to a desert
   retirement community\, he discovers something is lurking beneath its per
  fect surface.
 DTEND:20260521T074600Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260521T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -35,7 +22,7 @@ DESCRIPTION:Still reeling\, Sam seeks answers close to home. Renee gets a
  break in the case of the missing minerals. Judy and Wally face up to pain
  ful realities.
 DTEND:20260521T074600Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260521T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -47,7 +34,7 @@ CATEGORIES:Netflix
 DESCRIPTION:Sam and Wally decide to take a risk. Renee and Paz's investiga
  tion brings them closer together. Art seeks answers in the desert.
 DTEND:20260521T074600Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260521T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -59,7 +46,7 @@ CATEGORIES:Netflix
 DESCRIPTION:Art savors the fruits of his explorations. Blaine warns Sam th
  at curiosity comes with consequences. Renee makes a shocking discovery.
 DTEND:20260521T074600Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260521T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -72,7 +59,7 @@ DESCRIPTION:Sam\, Judy and Wally uncover a new side of The Boroughs. Renee
   and Paz go on a road trip. Blaine tries to convince Claire to take actio
  n.
 DTEND:20260521T074600Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260521T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -85,7 +72,7 @@ DESCRIPTION:With the entire gang under Blaine's thumb\, Sam desperately se
  eks a way out. Art and Judy hit a breaking point. Wally gets a taste of a
   new life.
 DTEND:20260521T074600Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260521T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -98,7 +85,7 @@ DESCRIPTION:As the anniversary party approaches\, Anneliese reveals a pain
  ful secret. The gang gets in gear for a high-stakes rescue mission at The
   Manor.
 DTEND:20260521T074600Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260521T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -111,7 +98,7 @@ DESCRIPTION:With Blaine and Anneliese desperate to capture Mother\, Sam an
  d his friends put it all on the line to save their neighbors and set thin
  gs right.
 DTEND:20260521T074600Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260521T070000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -124,7 +111,7 @@ DESCRIPTION:When Woodstone’s future is put in jeopardy\, Sam and Jay join
  forces with the ghosts to protect the mansion by securing its place in hi
  story.
 DTEND:20260522T005100Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260522T003000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -137,7 +124,7 @@ DESCRIPTION:A trip abroad could determine Woodstone’s fate. Meanwhile\, a
  major career opportunity takes Sam out of town\, leaving others to step i
  n and help with the ghosts.
 DTEND:20260522T011200Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260522T005100Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -149,11 +136,21 @@ CATEGORIES:CBS
 DESCRIPTION:A minor royal's mysterious death at New York's most legendary 
  hotel brings Elsbeth into a world of faded elegance\, cabaret and murder.
 DTEND:20260522T014300Z
-DTSTAMP:20260525T220003Z
+DTSTAMP:20260526T220003Z
 DTSTART:20260522T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Elsbeth - 3x20 - That's All
 UID:NzbDrone_episode_6743
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20260622T020300Z
+DTSTAMP:20260526T220003Z
+DTSTART:20260622T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:House of the Dragon - 3x01 - TBA
+UID:NzbDrone_episode_6796
 END:VEVENT
 END:VCALENDAR
