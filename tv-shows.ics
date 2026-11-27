@@ -8,7 +8,7 @@ CATEGORIES:CBS
 DESCRIPTION:Elsbeth feels the burn when a Pilates student’s murder pits he
  r against a celebrity fitness guru.
 DTEND:20261120T024300Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261120T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -21,7 +21,7 @@ DESCRIPTION:Grey Sloan is overrun with patients after a nearby hospital cl
  oses its doors\, and hospital leadership clashes with how best to manage 
  the chaos.
 DTEND:20261120T024300Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261120T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -35,7 +35,7 @@ DESCRIPTION:Coordinated raids set the Harrigans' empire on fire. With Conr
  ge up as Frankie takes a massive gamble and Eddie bottles it again. Seaso
  n finale.
 DTEND:20261120T084700Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261120T080000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -48,7 +48,7 @@ DESCRIPTION:Everyone comes home. Not everyone comes back. That's what the
  therapists are gonna tell you\, anyway. Tonight\, the team faces an inqui
  sition sooner than they ever imagined.
 DTEND:20261123T025700Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261123T020000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -60,7 +60,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:Amanda and Pryce start training for the US Open. Facing pressu
  re\, Santi makes a personnel change.
 DTEND:20261125T053300Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261125T050000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 CATEGORIES:Prime Video
 DESCRIPTION:Sauron seeks to complete the One Ring.
 DTEND:20261125T090700Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261125T080000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -83,7 +83,7 @@ CATEGORIES:Prime Video
 DESCRIPTION:With Sauron's victory at hand\, the forces of good and evil as
  semble to decide the fate of Middle-earth.
 DTEND:20261125T101400Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261125T090700Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -95,7 +95,7 @@ CATEGORIES:Comedy Central
 DESCRIPTION:When mysterious power outages strike South America\, the towns
  people fear Chinese cyberattacks.
 DTEND:20261126T032200Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261126T030000Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -104,81 +104,102 @@ UID:NzbDrone_episode_6878
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20261126T084900Z
-DTSTAMP:20261126T230003Z
+DESCRIPTION:Sophie attempts to repair her relationship with Graham. Margo 
+ runs into a group of violent bikers from her past. Salazar and Flynn inve
+ stigate a new dead body.
+DTEND:20261126T085300Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261126T080000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Hunting Wives - 2x01 - Scared Straight
 UID:NzbDrone_episode_6471
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20261126T084900Z
-DTSTAMP:20261126T230003Z
+DESCRIPTION:Sophie seeks the truth from Margo. Nadia bonds with Callie. Ma
+ rgo tries to escape the grasp of Zelda\, the leader of the biker gang.
+DTEND:20261126T085300Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261126T080000Z
 SEQUENCE:0
-STATUS:TENTATIVE
-SUMMARY:The Hunting Wives - 2x02 - Dead Ringer
+STATUS:CONFIRMED
+SUMMARY:The Hunting Wives - 2x02 - This is the Killer Speaking
 UID:NzbDrone_episode_6521
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20261126T084900Z
-DTSTAMP:20261126T230003Z
+DESCRIPTION:Margo brings her problems with the bikers to Jed and Jonny. Sa
+ lazar and Flynn continue to investigate Kyle.
+DTEND:20261126T085300Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261126T080000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Hunting Wives - 2x03 - Back on the Saddle
 UID:NzbDrone_episode_6522
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20261126T084900Z
-DTSTAMP:20261126T230003Z
+DESCRIPTION:The bikers close in on Margo. Callie gets her heart broken aga
+ in. A new John Doe pops up in Maple Brook.
+DTEND:20261126T085300Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261126T080000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Hunting Wives - 2x04 - Riders on the Storm
 UID:NzbDrone_episode_6523
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20261126T084900Z
-DTSTAMP:20261126T230003Z
+DESCRIPTION:Margo shows Sophie what a life together could look like. A wre
+ nch is thrown into Callie and Nadia's relationship. Salazar makes a conne
+ ction between the John Doe and Kyle.
+DTEND:20261126T085300Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261126T080000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Hunting Wives - 2x05 - Sonny Came Home
 UID:NzbDrone_episode_6750
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20261126T084900Z
-DTSTAMP:20261126T230003Z
+DESCRIPTION:After a tense showdown with Brad\, Margo leans on Sophie befor
+ e heading home for some soul-searching. Maple Brook celebrates Halloween.
+  Trout makes a plan to control Margo. Nadia proves her love to Callie.
+DTEND:20261126T085300Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261126T080000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Hunting Wives - 2x06 - Last Dance
 UID:NzbDrone_episode_6751
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20261126T084900Z
-DTSTAMP:20261126T230003Z
+DESCRIPTION:Sophie springs Margo from her cage and comes to an unlikely al
+ ly\, Jia-Yi\, who has the key to implicating Jed. Callie and Nadia zero i
+ n on Margo.
+DTEND:20261126T085300Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261126T080000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Hunting Wives - 2x07 - Freak on a Leash
 UID:NzbDrone_episode_6771
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Netflix
-DTEND:20261126T084900Z
-DTSTAMP:20261126T230003Z
+DESCRIPTION:A final confrontation with Nadia sends Callie spiralling for j
+ ustice. Salazar tightens the net around Sophie. Margo makes a deal with J
+ ed to protect Sophie.
+DTEND:20261126T085300Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261126T080000Z
 SEQUENCE:0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 SUMMARY:The Hunting Wives - 2x08 - Good Luck\, Babe!
 UID:NzbDrone_episode_6780
 END:VEVENT
@@ -188,9 +209,9 @@ DESCRIPTION:Here we see that Natalie's return from walking in the spiderwe
  bs isn't the salvation it once seemed\, especially for Shauna. With new n
  eighbors\, a change in leadership\, and the pressures of society all bear
  ing down\, you better light your candles.
-DTEND:20261130T025700Z
-DTSTAMP:20261126T230003Z
-DTSTART:20261130T020000Z
+DTEND:20261128T025700Z
+DTSTAMP:20261127T230003Z
+DTSTART:20261128T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
 SUMMARY:Yellowjackets - 4x02 - Human Interest
@@ -201,7 +222,7 @@ CATEGORIES:Apple TV
 DESCRIPTION:After some turbulence\, Santi starts to spiral. Pryce works on
   his mental game. Mitts gets a surprise visitor.
 DTEND:20261202T053300Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261202T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -215,7 +236,7 @@ DESCRIPTION:When a hitman targets the last holdout against a billion-dolla
  egacy and community. Meanwhile\, Kaya Blanke returns undercover as the pr
  oject manager for the new building being constructed.
 DTEND:20261204T024300Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261204T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -224,8 +245,10 @@ UID:NzbDrone_episode_7394
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
+DESCRIPTION:Ate already? Good\, because the official '96 Yellowjackets mem
+ orial service is now in session.
 DTEND:20261207T025700Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261207T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -235,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20261209T053300Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261209T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -248,7 +271,7 @@ DESCRIPTION:Jay springs into action when his and Sam’s former assistant\,
  Freddie\, returns to Woodstone\, intent on revenge. Also\, the ghosts deb
  ate whether to tell an amnesiac Pete the truth about his past.
 DTEND:20261211T012100Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261211T010000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -260,7 +283,7 @@ CATEGORIES:CBS
 DESCRIPTION:Things take a turn as Freddie's gambit takes its hold on Woods
  tone\, and Pete's memory becomes a major problem at a critical point.
 DTEND:20261211T014200Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261211T012100Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -273,7 +296,7 @@ DESCRIPTION:Elsbeth and Wagner sift through a flock of suspects in New Yor
  k’s birdwatching community after a local guide is found dead in a city pa
  rk.
 DTEND:20261211T024300Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261211T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -282,18 +305,22 @@ UID:NzbDrone_episode_7405
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
-DTEND:20261214T025700Z
-DTSTAMP:20261126T230003Z
-DTSTART:20261214T020000Z
+DESCRIPTION:You better bring your a-game tonight\, because DJ Nietzsche is
+  in the house at Wiskayok's most existential karaoke joint. Meanwhile\, M
+ isty attends a dinner party\, and Natalie tries walking a straighter edge
+ .
+DTEND:20261212T025700Z
+DTSTAMP:20261127T230003Z
+DTSTART:20261212T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Yellowjackets - 4x04 - TBA
+SUMMARY:Yellowjackets - 4x04 - Burnout
 UID:NzbDrone_episode_7110
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20261216T053300Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261216T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
@@ -302,18 +329,22 @@ UID:NzbDrone_episode_6823
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Paramount+ with Showtime
-DTEND:20261221T025700Z
-DTSTAMP:20261126T230003Z
-DTSTART:20261221T020000Z
+DESCRIPTION:The Yellowjackets return to high school and learn to put the '
+ u' in 'trauma.' Gen worries that the gods will not save them. Misty tries
+  making friends and winning hearts while Geraldine comes along for a ride
+  to re-up on the connect.
+DTEND:20261219T025700Z
+DTSTAMP:20261127T230003Z
+DTSTART:20261219T020000Z
 SEQUENCE:0
 STATUS:TENTATIVE
-SUMMARY:Yellowjackets - 4x05 - TBA
+SUMMARY:Yellowjackets - 4x05 - Feed on the Weak
 UID:NzbDrone_episode_7111
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Apple TV
 DTEND:20261223T053300Z
-DTSTAMP:20261126T230003Z
+DTSTAMP:20261127T230003Z
 DTSTART:20261223T050000Z
 SEQUENCE:0
 STATUS:TENTATIVE
